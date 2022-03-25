@@ -5,3 +5,4 @@ npm i --save-dev nodemon
     "start": "nodemon ./bin/www"
   },
 npm i --save mongoose
+mongodb://localhost:27017
